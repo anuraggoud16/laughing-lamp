@@ -1,0 +1,19 @@
+.card1 {
+    background-color: brown;
+    height: 150px;
+    width: 400px;
+}
+.card2 {
+    background-color: rgb(132, 130, 130);
+    height: 250px;
+    width: 400px;
+    border-bottom-right-radius: 40px;
+}
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 70px;
+    left: 120px;
+}
